@@ -1,0 +1,11 @@
+{
+  "name": "my-custom-api",
+  "version": "1.0.0",
+  "description": "Custom API using R-Gen APIs",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
